@@ -3,7 +3,7 @@
 > Built for Frontend Battle 3.0 — Round 1 | IIT Bhubaneswar | 26 June 2026
 
 **Live Demo:** https://frontend-vibecoding.vercel.app
-**GitHub:** https://github.com/najmabegum-dev/frontend-vibecoding
+**GitHub:** https://github.com/najmabegum-dev/conduit-landing-page/
 
 ## What I Built
 A premium, responsive SaaS landing page for a fictional AI data automation platform — engineered under a 4-hour competition deadline with strict architectural and performance constraints.
