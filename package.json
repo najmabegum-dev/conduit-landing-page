@@ -1,7 +1,8 @@
 {
-  "name": "landing",
+  "name": "conduit-landing-page",
   "private": true,
-  "version": "0.0.0",
+  "description": "SaaS landing page with matrix-driven pricing and a bento-to-accordion layout. React, Vite, Tailwind v4.",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
